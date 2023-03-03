@@ -1,6 +1,6 @@
 # Green-Home-presentation
 Currently in development
-<h1 align="center">Green-Home pre-alpha 0.1</h1>
+<h2 align="center">Green-Home pre-alpha 0.1</h2>
 
 <p align="center">
 	Green-Home is an iOS app that helps you take care of your plants with ease and confidence.
