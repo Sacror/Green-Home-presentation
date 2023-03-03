@@ -40,7 +40,6 @@ The app will be available for download on the App Store once it is released.
 ## ...
 
 
-
 <p align="center">
 	Made with ❤️ by Sacror
 </p>
