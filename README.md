@@ -31,7 +31,8 @@ Whether you're just starting out with your first houseplant or you're a seasoned
 
 ## Status
 
-Green-Home is currently in development and is not yet available on the App Store. I am actively working on completing development and testing, and plan to release the app in mid 2023.
+Green-Home is currently in development and is not yet available on the App Store.
+Scheduled release: late 2023.
 
 ## Installation
 
