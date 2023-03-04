@@ -14,7 +14,6 @@ Currently in development
   	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image4.png" alt="Screenshot of Green-Home app 5" width="250">
     	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image5.png" alt="Screenshot of Green-Home app 6" width="250">
 	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image6.png"alt="Screenshot of Green-Home app 4" width="250">
-  	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image7.png" alt="Screenshot of Green-Home app 5" width="250">
     	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image9.png" alt="Screenshot of Green-Home app 6" width="250">
 </p>
 
