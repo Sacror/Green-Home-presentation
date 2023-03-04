@@ -7,12 +7,15 @@ Currently in development
 </p>
 
 <p align="center">
-	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-03%20at%2019.30.52.png" alt="Screenshot of Green-Home app 1" width="250">
-  	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-03%20at%2019.30.52.png" alt="Screenshot of Green-Home app 2" width="250">
-    	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-03%20at%2019.32.12.png" alt="Screenshot of Green-Home app 3" width="250">
-      <img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-03%20at%2019.33.12.png"alt="Screenshot of Green-Home app 4" width="250">
-  	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-03%20at%2019.33.31.png" alt="Screenshot of Green-Home app 5" width="250">
-    	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-03%20at%2019.34.02.png" alt="Screenshot of Green-Home app 6" width="250">
+	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image8.png" alt="Screenshot of Green-Home app 1" width="250">
+  	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image1.png" alt="Screenshot of Green-Home app 2" width="250">
+    	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image2.png" alt="Screenshot of Green-Home app 3" width="250">
+      <img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image3.png"alt="Screenshot of Green-Home app 4" width="250">
+  	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image4.png" alt="Screenshot of Green-Home app 5" width="250">
+    	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image5.png" alt="Screenshot of Green-Home app 6" width="250">
+	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image6.png"alt="Screenshot of Green-Home app 4" width="250">
+  	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image7.png" alt="Screenshot of Green-Home app 5" width="250">
+    	<img src="https://github.com/Sacror/Green-Home-presentation/blob/master/Resources/image9.png" alt="Screenshot of Green-Home app 6" width="250">
 </p>
 
 ## Overview
